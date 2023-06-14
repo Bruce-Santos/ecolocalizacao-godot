@@ -1,2 +1,2 @@
 # ecolocalizacao-godot
-Código godot para ecolocalização baseada em luz
+Código godot para ecolocalização usando som como luz
